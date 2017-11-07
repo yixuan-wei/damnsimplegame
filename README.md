@@ -1,2 +1,2 @@
 # damnsimplegame
-damn simple game template in canvas
+damn simple game realization in html canvas
